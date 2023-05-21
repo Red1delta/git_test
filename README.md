@@ -1,3 +1,3 @@
 # git_test
-My firt github reo!
+My firt github repo!
 Hello Odin
